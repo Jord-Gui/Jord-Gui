@@ -2,7 +2,8 @@
 
 I'm an aspiring software developer who wants to make an impact on the world with the things that I do. 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+Tools and Languages  
+<img src="./img/javascript.png" alt="javascript.png" width="20" height="20">
 
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
