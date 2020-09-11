@@ -8,8 +8,10 @@ I'm an aspiring software developer who wants to make an impact on the world with
 <a href="https://www.linkedin.com/in/jord-gui/">
   <img align="left" alt="Jord's LinkedIn" width="21px" src="https://raw.githubusercontent.com/Jord-Gui/Jord-Gui/master/img/linkedin.svg" />
 </a>
+<a href="https://devpost.com/Jord">
+  <img align="left" alt="Jord's Devpost" width="21px" src="https://raw.githubusercontent.com/Jord-Gui/Jord-Gui/master/img/devpost.svg" />
+</a>
 
-<br />
 <br />
 
 **Languages & Tools ⚒️:**  
