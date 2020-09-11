@@ -6,7 +6,7 @@ I'm an aspiring software developer who wants to make an impact on the world with
 
 **Find me around the web:**  
 <a href="https://www.linkedin.com/in/jord-gui/">
-  <img align="left" alt="Jord's LinkedIn" width="21px" src="./img/linkedin.svg" />
+  <img align="left" alt="Jord's LinkedIn" width="21px" src="https://raw.githubusercontent.com/Jord-Gui/Jord-Gui/master/img/linkedin.svg" />
 </a>
 
 <br />
