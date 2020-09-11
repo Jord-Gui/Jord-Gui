@@ -1,6 +1,6 @@
 ### Hi there, I'm [Jord](https://jordgui.dev/) 👋
 
-<code><img height="200" src="https://raw.githubusercontent.com/Jord-Gui/Jord-Gui/master/img/octocat.png"></code>
+<code><img height="200" src="https://raw.githubusercontent.com/Jord-Gui/Jord-Gui/master/img/github-cover.png"></code>
 
 I'm an aspiring software developer who wants to make an impact on the world with the things that I do. 
 - 🔭 I’m currently finishing up my final semester at university
