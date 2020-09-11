@@ -4,6 +4,14 @@ I'm an aspiring software developer who wants to make an impact on the world with
 - 🔭 I’m currently finishing up my final semester at university
 - 🌱 I’m currently learning frontend development using html/css/js
 
+**Find me around the web:**  
+<a href="https://www.linkedin.com/in/jord-gui/">
+  <img align="left" alt="Jord's LinkedIn" width="21px" src="./img/linkedin.svg" />
+</a>
+
+<br />
+<br />
+
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 ![Jord's github stats](https://github-readme-stats.vercel.app/api?username=Jord-Gui&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
