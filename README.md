@@ -2,8 +2,11 @@
 
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
-[![Jord's github stats](https://github-readme-stats.vercel.app/api?username=Jord-Gui&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jord-Gui&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Jord's github stats](https://github-readme-stats.vercel.app/api?username=Jord-Gui&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jord-Gui&theme=dark&layout=compact)
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jord-Gui&repo=leetcode-solutions&show_owner=true&theme=dark)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jord-Gui&repo=PDF-Editor&show_owner=true&theme=dark)
 
 <!--
 **Jord-Gui/Jord-Gui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
