@@ -23,8 +23,8 @@ I'm an aspiring software developer who wants to make an impact on the world with
 
 ![Jord's github stats](https://github-readme-stats.vercel.app/api?username=Jord-Gui&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jord-Gui&theme=dark&layout=compact)  
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jord-Gui&repo=leetcode-solutions&show_owner=true&theme=dark)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jord-Gui&repo=PDF-Editor&show_owner=true&theme=dark)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jord-Gui&repo=leetcode-solutions&show_owner=true&theme=dark)](https://github.com/Jord-Gui/leetcode-solutions)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jord-Gui&repo=PDF-Editor&show_owner=true&theme=dark)](https://github.com/Jord-Gui/PDF-Editor)
 
 <!--
 **Jord-Gui/Jord-Gui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
