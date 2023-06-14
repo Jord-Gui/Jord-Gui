@@ -2,9 +2,9 @@
 
 <code><img height="200" src="https://raw.githubusercontent.com/Jord-Gui/Jord-Gui/master/img/github-cover.png"></code>
 
-I'm an aspiring software developer who wants to make an impact on the world with the things that I do. 
+I'm an SSW Software Engineer
 - 🔭 I’m currently getting Microsoft Certified: Azure Fundamentals
-- 🌱 I’m currently learning frontend development using html/css/js
+- 🌱 I’m currently learning Full-Stack development 
 
 **Find me around the web 🌎:**  
 <a href="https://www.linkedin.com/in/jord-gui/">
