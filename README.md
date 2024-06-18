@@ -3,8 +3,7 @@
 <code><img height="200" src="https://raw.githubusercontent.com/Jord-Gui/Jord-Gui/master/img/github-cover.png"></code>
 
 I'm an SSW Software Engineer
-- 🔭 I’m currently getting Microsoft Certified: Azure Fundamentals
-- 🌱 I’m currently learning Full-Stack development 
+- 🔭 I’m currently getting Microsoft Certified: Azure AI Engineer Associate
 
 **Find me around the web 🌎:**  
 <a href="https://www.linkedin.com/in/jord-gui/">
