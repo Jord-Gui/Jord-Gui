@@ -3,6 +3,7 @@
 <code><img height="200" src="https://raw.githubusercontent.com/Jord-Gui/Jord-Gui/master/img/github-cover.png"></code>
 
 I'm an SSW Software Engineer
+- 🦙 I'm currently upgrading [TinaCMS](https://tina.io/)
 - 🔭 I’m currently revamping my portfolio website
 
 **Find me around the web 🌎:**  
